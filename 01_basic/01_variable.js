@@ -1,7 +1,8 @@
 const accountId=5678
 let accountMail="rahmat@bb"
 var accountPasswors="12345"
-accountCity="patna"
+accountCity="patna" 
+let accountstate;
 
 
 //accountId=2
@@ -11,4 +12,4 @@ accountPasswors="123456"
 */
 
 console.log(accountId);
-console.table([accountMail, accountPasswors,])
+console.table([accountMail, accountPasswors,accountCity,accountstate])
